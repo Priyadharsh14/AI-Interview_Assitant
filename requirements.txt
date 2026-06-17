@@ -35,7 +35,7 @@ httpx==0.27.0
 
 # --- Utilities ---
 tenacity==8.4.1          # Retry logic for API calls
-tiktoken==0.7.0          # Token counting
+tiktoken==0.11.0          # Token counting
 python-multipart==0.0.9  # File upload handling
 
 # --- Testing ---
